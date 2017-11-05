@@ -16,16 +16,18 @@ We start with organization’s stock trends over years.
 
 We can see the constant increase in stock values for all organizations with a few exceptions like 2005 increase, 2006 decrease, 2012 increase, 2014 increase. All major changes have primarily occurred in three organizations- web, healthcare and financial. We can filter them out to see if there’s any connection between these drastic changes in stock values and record lost by the same organizations at same point of time.
 
-![ScreenShot](https://user-images.githubusercontent.com/32226479/32410692-54a7e670-c184-11e7-8d48-a4c23d59d300.png)
+![ScreenShot](https://user-images.githubusercontent.com/32226479/32410720-fc4034f0-c184-11e7-935e-5dfbfcac6337.png)
 
 We can see increase in records lost by web organization starts in 2010 followed by major increase in 2012 after which it remains constant for a year and then drops with next change in 2016. There is no link between the trends of stock values and records lost.
 We can conclude the same for other 2 organizations as well.
 
-![ScreenShot](https://user-images.githubusercontent.com/32226479/32410695-6df6a26a-c184-11e7-99c7-014b2181fb60.png)
-
-![ScreenShot](https://user-images.githubusercontent.com/32226479/32410699-8962e0c2-c184-11e7-84ac-2449989d8da7.png)
+![ScreenShot](https://user-images.githubusercontent.com/32226479/32410727-246b47bc-c185-11e7-9a2b-a779cc3d137e.png) ![ScreenShot](https://user-images.githubusercontent.com/32226479/32410732-3ef1732c-c185-11e7-8cc4-2779c9a90cd6.png)
 
 
 Hence the final visualization depicts that there is no connection between stock values and records lost over specific timeframe. Hence 
 Claim: The financial markets do not punish security breaches as stock prices.
 Audience: Office of Federal Finance.
+
+Tableau Link: https://public.tableau.com/profile/sanjana.thakur#!/vizhome/Lab_Session_7/StockValuesvsRecordsLost?publish=yes
+
+![ScreenShot](https://user-images.githubusercontent.com/32226479/32410752-77785116-c185-11e7-8410-d5aaec1a793c.png)
